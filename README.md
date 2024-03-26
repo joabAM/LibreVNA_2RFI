@@ -12,6 +12,7 @@ Script to automatically acquire the 2 LibreVNA channels, to measure RFI.
 ### Installing
 
 * No installation needed, just run the Python script (configure the script according to your system before)
+* https://github.com/joabAM/LibreVNA_2RFI 
 
 ### Executing program
 
