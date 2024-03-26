@@ -7,7 +7,7 @@ Script to automatically acquire the 2 LibreVNA channels, to measure RFI.
 
 ### Dependencies
 
-* Ubuntu system for LibreVNA-GUI operation.
+* Ubuntu system for LibreVNA-GUI operation. LibreVNA-1.4.1 was used.
 
 ### Installing
 
@@ -20,11 +20,10 @@ Script to automatically acquire the 2 LibreVNA channels, to measure RFI.
 python3 autoSA.py
 ```
 * To make the plots:
+Comment or uncomment the final lines as needed.
 ```
 python3 readNVA.py
 ```
-
-
 
 ## Authors
 
